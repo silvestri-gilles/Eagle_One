@@ -1,0 +1,326 @@
+[
+        
+             "https://api.star-citizen.wiki/api/vehicles/Avenger%20Stalker?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Avenger%20titan?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Avenger%20titan%20renegade?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/avenger-warlock"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Gladius?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Gladius%20Valiant?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Hammerhead?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Reclaimer?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Redeemer?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Sabre?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Sabre%20Comet?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Vanguard%20Warden?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Vanguard%20harbinger?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Vanguard%20hoplite?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Vanguard%20Sentinel?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/arrow?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/c8-pisces?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/c8r-pisces?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/c8x-pisces-expedition?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/carrack?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/gladiator?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/hawk?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/F7A-hornet?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/F7C-hornet?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/F7C-M-super-hornet?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/F7C-R-hornet-tracker?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/F7C-S-hornet-ghost?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/F7C-hornet-wildfire?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/hurricane?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Terrapin?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Valkyrie?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/MOLE?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/MPUV-Cargo?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/MPUV-Personnel?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/RAFT?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Defender?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/HoverQuad?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Mustang-Alpha?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Mustang-Beta?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Mustang-Delta?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Mustang-Gamma?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Mustang-Omega?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Nomad?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Mercury?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/ares-inferno?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/ares-ion?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/a2-hercules?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/c2-hercules?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/m2-hercules?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/buccaneer?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/caterpillar?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/Corsair?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/cutlass-black?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/cutlass-red?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/cutlass-blue?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/cutlass-steel?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/dragonfly-black?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/herald?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/vulture?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/prowler?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/talon?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/talon-shrike?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/p-52-merlin?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/p-72-archimedes?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/freelancer?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/freelancer-dur?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/freelancer-max?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/freelancer-mis?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/hull-a?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/prospector?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/razor?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/razor-ex?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/razor-lx?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/reliant-kore?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/reliant-sen?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/reliant-mako?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/reliant-tana?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/starfarer?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/starfarer-gemini?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/100i?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/125a?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/135c?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/300i?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/315p?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/325a?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/350r?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/400i?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/600i-explorer?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/600i-touring?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/85X?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/890-jump?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/m50?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/aurora-cl?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/aurora-es?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/aurora-ln?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/aurora-lx?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/aurora-mr?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/constellation-andromeda?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/constellation-aquila?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/constellation-phoenix?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/constellation-taurus?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/mantis?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/scorpius?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/blade?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/glaive?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/scythe?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/nox?locale=en_EN"
+        ,
+        
+             "https://api.star-citizen.wiki/api/vehicles/khartu-al?locale=en_EN"
+        
+    ]

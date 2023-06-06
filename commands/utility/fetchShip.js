@@ -15,10 +15,9 @@ module.exports = {
             // Acknowledge the command immediately
             await interaction.deferReply();
             const shipData = await fetchShipFromDB(shipName);
-            console.log('Ship name:', shipName);
-            console.log('Ship data:', shipData);
             if (shipData) {
-                await interaction.editReply(`Fetched ship data: ${JSON.stringify(shipData)}`);
+                const shipDataString = JSON.stringify(shipData, null, 4);
+                await interaction.editReply(`Fetched ship data: \`\`\`${shipDataString}\`\`\``);
             } else {
                 await interaction.editReply(`No data found for ship ${shipName}.`);
             }
